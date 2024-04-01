@@ -13,7 +13,7 @@ body{
     align-items: center;
     background: linear-gradient(45deg, #af7895,#fae528);
 }
-/* .container{
+.container{
     background: #fff;
     border-radius: 10px;
     display: flex;
@@ -53,10 +53,10 @@ body{
     color: #fff;
     background: #af7895;
     cursor: pointer;
-} */
+}
 
 
-/* h1{
+h1{
     font-size: 3rem;
     color: #fae528;
 }
@@ -84,7 +84,7 @@ table td button{
     padding: 10px 14px;
     border-radius: 6px;
     cursor: pointer;
-} */
+}
 
 .container{
     border: 1px solid rgb(223, 26, 5);
